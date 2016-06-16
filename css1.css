@@ -1,0 +1,29 @@
+html{
+	height: 100%;
+	width: 85%;
+	background-color: gray;
+}
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0% 9%;
+	background-color: white;
+}
+#header{
+	height: 10%;
+	width: 99%;
+	border-style: groove;
+	margin: 2% 0%;
+}
+#body{
+	height: 75%;
+	width: 99%;
+	border-style: groove;
+	margin: 2% 0%;
+}
+#footer{
+	height: 9%;
+	width: 99%;
+	border-style: groove;
+	margin: 2% 0%;
+}
